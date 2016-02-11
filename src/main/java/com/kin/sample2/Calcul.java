@@ -25,7 +25,7 @@ public class Calcul {
       
         Calcul calcul = new Calcul();     
         in res = calcul.somme(-10, 70);
-        System.out.println("Le resultat  d'adus plus interessant est: " + res);
+        System.out.println("Le resultat plus interessant est: " + res);
     }
 
 }
