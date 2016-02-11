@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 //Ce programme est modifié pour le test.
-//encore un tst
+//encore un test
 package com.kin.sample2;
 
 /**
