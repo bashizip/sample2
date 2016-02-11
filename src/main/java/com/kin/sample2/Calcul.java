@@ -22,8 +22,8 @@ public class Calcul {
     public static void main(String[] args) {
       
         Calcul calcul = new Calcul();     
-        int res = calcul.somme(-100000, 60);
-        System.out.println("Le resultat plus interessant est: " + res);
+        int res = calcul.somme(-10, 70);
+        System.out.println("Le resultat  d'adus plus interessant est: " + res);
     }
 
 }
