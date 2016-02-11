@@ -22,7 +22,7 @@ public class Calcul {
     public static void main(String[] args) {
       
         Calcul calcul = new Calcul();     
-        int res = calcul.somme(-10, 60);
+        int res = calcul.somme(-1, 60);
         System.out.println("result: " + res);
     }
 
