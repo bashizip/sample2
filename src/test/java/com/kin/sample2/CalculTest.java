@@ -58,7 +58,7 @@ public class CalculTest extends TestCase {
     
     @Test
     public void testRacineCaree() {        
-        System.out.println("Test Racine Carée");
+        System.out.println("Test Racine Carée")
         double a = 25.0;    
         double expResult = 5.0;
         double result = instance.racineCaree(a);
