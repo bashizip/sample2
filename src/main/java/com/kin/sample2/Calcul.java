@@ -25,7 +25,7 @@ public class Calcul {
       
         Calcul calcul = new Calcul();     
         int res = calcul.somme(-10, 70);
-        System.out.println("Le resultat  d'adus plus interessant est: " + res);
+        System.out.println("Le resultat de Frostking est plus interessant est: " + res);
     }
 
 }
