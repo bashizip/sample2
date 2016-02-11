@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//Ce programme est modifié pour le test
+//Ce programme est modifié pour le test.
 package com.kin.sample2;
 
 /**
