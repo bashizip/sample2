@@ -23,7 +23,7 @@ public class Calcul {
     public static void main(String[] args) {
       
         Calcul calcul = new Calcul();     
-        int res = calcul.somme(-10, 60);
+        int res = calcul.somme(-10, 70);
         System.out.println("Le resultat plus interessant est: " + res);
     }
 
