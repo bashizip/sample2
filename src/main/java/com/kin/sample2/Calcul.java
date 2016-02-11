@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Ce programme est modifié pour le test.
+//encore un test
 package com.kin.sample2;
 
 /**
@@ -22,7 +24,7 @@ public class Calcul {
     public static void main(String[] args) {
       
         Calcul calcul = new Calcul();     
-        int res = calcul.somme(-10, 70);
+        in res = calcul.somme(-10, 70);
         System.out.println("Le resultat  d'adus plus interessant est: " + res);
     }
 
